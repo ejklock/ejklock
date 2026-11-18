@@ -1,7 +1,7 @@
 # Evaldo Klock
 
 
-Computer Scientist with 7 years of experience as a developer in Web development, REST APIs, and GraphQL. Proficient in JavaScript, TypeScript, Java, and PHP, with expertise in NestJS, Spring Boot, and Laravel. Experience in projects with microservices, Docker, RabbitMQ, Redis, and AWS solutions such as Lambda, S3, Cognito, and DynamoDB. Familiar with support tools like Jira and Confluence.
+Computer Scientist with 10+ years of experience as a developer in Web development, REST APIs, and GraphQL. Proficient in JavaScript, TypeScript, Java, and PHP, with expertise in NestJS, Spring Boot, and Laravel. Experience in projects with microservices, Docker, RabbitMQ, Redis, and AWS solutions such as Lambda, S3, Cognito, and DynamoDB. Familiar with support tools like Jira and Confluence.
 
 
 
